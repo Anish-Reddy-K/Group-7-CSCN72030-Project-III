@@ -1,8 +1,5 @@
 # FriendLens Web App
 
-## Overview
-FriendLens is a simple Flask web application that allows users to view and navigate through a collection of 4K wallpapers from the "Eternals" movie. The application provides a home page and a feed page for a user-friendly experience.
-
 ## Features
 - **Home Page (/):** Displays a collection of 4K wallpapers from the specified directory.
 - **Feed Page (/feed):** Renders a feed page (placeholder) for future functionality.
