@@ -292,7 +292,6 @@ def main(credentials_path, folder_name, users_json_path):
                         feed_folder_ids.append(feed_folder_id)
                 for feed_id in feed_folder_ids:
                     print(feed_id)
-                    feed_id="1cFXBcEol0e4KCnd69G0LCYBYolj7r4vC"
                     upload_image(drive_service, feed_id, image_file_path)
                     #upload to link
             else:
